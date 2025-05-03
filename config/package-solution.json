@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "docment-client-side-solution",
+    "id": "e136a5bd-b66c-4bd1-ac37-ee2647b1a566",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "docment description"
+      },
+      "longDescription": {
+        "default": "docment description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "docment Feature",
+        "description": "The feature that activates elements of the docment solution.",
+        "id": "6d545774-f6d7-4e01-b589-8aad2953ba03",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/docment.sppkg"
+  }
+}

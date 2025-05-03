@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.15.0",
+    "sdksVersions": {},
+    "version": "1.21.0",
+    "libraryName": "docment",
+    "libraryId": "e136a5bd-b66c-4bd1-ac37-ee2647b1a566",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "docment",
+    "solutionShortDescription": "docment description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
